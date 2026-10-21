@@ -1,4 +1,4 @@
-# finance-analytics-portfolio
+# Finance-Analytics-Portfolio
 Financial reporting, Excel and Power BI portfolio projects
 # Finance & Data Analytics Portfolio
 
