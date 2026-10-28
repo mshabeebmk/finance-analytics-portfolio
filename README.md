@@ -20,7 +20,7 @@ B.Com in Accounting & Finance | CMA (USA) – Both Examination Parts Passed; Cer
 |---|---|---|---|
 | 01 | [Financial Performance Dashboard](#project-01--financial-performance-dashboard) | P&L, EBITDA, budget vs actual | Completed |
 | 02 | [Accounts Receivable & Cash Flow Dashboard](#project-02--accounts-receivable--cash-flow-dashboard) | AR ageing, DSO, CEI, cash forecast | Completed |
-| 03 | Budget vs Actual Variance Analysis | Variance drivers and commentary | Coming soon |
+| 03 | [Budget vs Actual Variance Analysis](#project-03--budget-vs-actual-variance-analysis) | Variance drivers, price/volume, P&L bridge | Completed |
 
 All projects use fictional or publicly available data for demonstration purposes. They are portfolio exercises, not results from any employer or client.
 
@@ -74,5 +74,32 @@ An accounts receivable and collections analysis project using fictional FY2025 d
 [View Project Documentation](PROJECT_02_AR_Cash_Flow_README.md)
 
 **Tools:** Microsoft Excel (SUMIFS, INDEX/MATCH, EOMONTH, data validation, charts), AR Ageing, Cash Forecasting
+
+**Data:** Fictional company data for portfolio demonstration.
+
+---
+
+## Project 03 — Budget vs Actual Variance Analysis
+
+A full-year budget vs actual review using fictional FY2025 data (16 P&L accounts, 4 departments, 12 months).
+
+### Key Analysis
+- Budget vs actual P&L with favourable/unfavourable and materiality flags
+- Variance commentary for each account
+- Revenue price vs volume analysis
+- Operating profit bridge from budget to actual
+- Department-level opex variance and monthly trend
+
+### Dashboard Preview
+
+![Budget vs Actual Dashboard](BvA_Dashboard_Preview.png)
+
+### Project Files
+
+[View Excel Workbook](Budget_vs_Actual_Variance_Analysis_Fictional_FY2025.xlsx)
+
+[View Project Documentation](PROJECT_03_Budget_vs_Actual_README.md)
+
+**Tools:** Microsoft Excel (SUMIFS, IF/AND, COUNTIF, conditional formatting, charts), Variance Analysis, Management Reporting
 
 **Data:** Fictional company data for portfolio demonstration.
